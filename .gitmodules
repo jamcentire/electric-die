@@ -1,0 +1,4 @@
+[submodule "lib/Accelerometer_ADXL335"]
+	path = lib/Accelerometer_ADXL335
+	url = https://github.com/Seeed-Studio/Accelerometer_ADXL335
+	branch = master
